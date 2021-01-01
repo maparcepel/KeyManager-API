@@ -1,8 +1,12 @@
 ![Keymanager](https://development.keymanager.tk/assets/img/logo_KeyManager.png)
 
-**DOCUMENTACION API KEYMANAGER**
+**API KEYMANAGER**
 
-Keymanager es una aplicación web para la gestión de códigos de seguridad para centrales receptoras de alarmas.
+Keymanager es una aplicación web para la gestión de códigos de seguridad para centrales receptoras de alarmas (https://development.keymanager.tk). 
+En este proyecto estuve encargado del desarrollo de la API.
+
+La documentación está disponible en el siguiente enlace:
+https://documenter.getpostman.com/view/10581396/TVsxCSKs
 
 
 **TIPOS DE USUARIOS**
