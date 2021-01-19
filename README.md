@@ -3,7 +3,8 @@
 **API KEYMANAGER**
 
 Keymanager es una aplicación web para la gestión de códigos de seguridad para centrales receptoras de alarmas (https://development.keymanager.tk). 
-En este proyecto estuve encargado del desarrollo de la API REST con Laravel.
+
+En este proyecto estuve encargado del desarrollo de la **API REST con Laravel**.
 
 La documentación está disponible en el siguiente enlace:
 https://documenter.getpostman.com/view/10581396/TVsxCSKs
@@ -11,7 +12,6 @@ https://documenter.getpostman.com/view/10581396/TVsxCSKs
 
 **TIPOS DE USUARIOS**
 
-Existen 3 tipos de usuarios:
 
 **Usuario de sistema:** es el operador de la central de alarmas. Puede realizar todo tipo de gestiones
 
